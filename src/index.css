@@ -5,6 +5,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  /* height: 400px;
+  background-image: url(./components/image/galaxy-rick-and-morty.jpg);
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center center; */
 }
 
 code {
